@@ -2,7 +2,6 @@
 Examen CRUD dataset Calgary Estacionamiento bicicletas
 
 
-Nombres: José Alexis Carrión Ojeda
 
 Nombre proyecto final: CRUD Estacionamiento público para bicicletas (Public Bicycle Parking)
 
